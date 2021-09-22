@@ -1,0 +1,1 @@
+Adafruit CircuitPython 7.0.0-alpha.1-131-g0e8b99dc6-dirty on 2021-05-31; ATMegaZero ESP32-S2 with ESP32S2
